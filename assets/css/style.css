@@ -73,6 +73,7 @@ nav {
 main {
     background-color: coral;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 footer {
