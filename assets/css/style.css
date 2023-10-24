@@ -7,12 +7,20 @@
 }
 
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+}
+
 header {
     background-color: lightgreen;
 }
 
 main {
     background-color: blue;
+    flex: 1 0 auto;
 }
 
 footer {
