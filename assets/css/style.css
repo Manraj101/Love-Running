@@ -1,0 +1,20 @@
+/* Astricks to override the browser default settings*/
+
+* {
+    padding: 0c;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: lightgreen;
+}
+
+main {
+    background-color: blue;
+}
+
+footer {
+    background-color: red;
+}
